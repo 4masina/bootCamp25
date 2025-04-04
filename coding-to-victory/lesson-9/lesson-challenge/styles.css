@@ -1,0 +1,15 @@
+
+.noto-sans-jp-font {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  p {
+    font-size: 2rem; /* Sets the font size to 2 rem units */
+  }
+ body {
+    background-color: #6cd6fa;
+    color: rgb(227, 39, 39);
+ }

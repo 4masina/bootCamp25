@@ -1,0 +1,22 @@
+.parallax {
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content-section {
+  height: 400px;
+  background-color: #f8f9fa;
+  padding: 50px 80px;
+  text-align: center;
+}
+
+.parallax-1 {
+  background-image: url("https://images.unsplash.com/photo-1505144808419-1957a94ca61e");
+}
+
+.parallax-2 {
+  background-image: url("https://images.unsplash.com/photo-1419242902214-272b3f66ee7a");
+}
